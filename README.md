@@ -50,5 +50,6 @@ Projects created by Jamaican developers.
 Personal portfolio for Jamaican developers.
 
 - [Jordan Liu](https://jordanxliu.com)
+- [Chadan Huggup](https://chadanhuggup.github.io/Public-Projects/)
 </details>
 <!-- END OF DEVELOPER PORTFOLIOS -->
